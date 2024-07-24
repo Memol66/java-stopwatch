@@ -16,7 +16,7 @@ public class Stopwatch {
                 endTime = System.currentTimeMillis();
                 System.out.println("Stopwatch stopped.");
                 long elapsedTime = endTime - startTime;
-                System.out.println("Elapsed time: " + (elapsedTime / 1000.0) + " seconds");
+                System.out.println("Elapsed time: " + (elapsedTime / 1000) + " seconds");
                 break;
             }
         }
