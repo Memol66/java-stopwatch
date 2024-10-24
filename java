@@ -1,4 +1,4 @@
-//0000000000000
+// 01
 import java.util.Scanner;
 
 public class Stopwatch {
