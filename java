@@ -1,4 +1,4 @@
-// 01
+// 012
 import java.util.Scanner;
 
 public class Stopwatch {
